@@ -1,11 +1,9 @@
 ================================================================================
-
 INTERSTELLAR SIGNALS INTELLIGENCE COMMAND (ISIC)
 SECURITY CLASSIFICATION: CONFIDENTIAL // LEVEL-3 CLEARANCE
 DATE OF INTERCEPT: 22 NOVEMBER 2026
 SIGNAL SOURCE: ORION-7 DEEP SPACE SURVEILLANCE ARRAY
 ATTACHMENT: celestial_transmission.png
-
 ================================================================================
 
 INCIDENT REPORT // CASE REF: ORION-ALPHA-779
@@ -17,7 +15,9 @@ package consisted of a single high-resolution telemetry raster frame:
 
 Initial automated intake triage reported the following telemetry warnings:
   [WARN 01] Automated ingestion pipeline failed image validation checksums.
+  
   [WARN 02] Frame buffer appears abruptly truncated by relay hardware error.
+  
   [WARN 03] Standard forensic keyword scans returned no plaintext flags.
 
 Senior intelligence analysts suspect the operative intentionally cloaked a secure
