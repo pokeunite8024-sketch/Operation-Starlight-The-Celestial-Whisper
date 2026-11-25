@@ -1,9 +1,11 @@
 ================================================================================
+
 INTERSTELLAR SIGNALS INTELLIGENCE COMMAND (ISIC)
 SECURITY CLASSIFICATION: CONFIDENTIAL // LEVEL-3 CLEARANCE
 DATE OF INTERCEPT: 22 NOVEMBER 2026
 SIGNAL SOURCE: ORION-7 DEEP SPACE SURVEILLANCE ARRAY
 ATTACHMENT: celestial_transmission.png
+
 ================================================================================
 
 INCIDENT REPORT // CASE REF: ORION-ALPHA-779
